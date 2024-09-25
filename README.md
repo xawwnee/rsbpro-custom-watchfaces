@@ -17,5 +17,7 @@ Get more watchfaces for other Xiaomi/Redmi wearables here - https://t.me/mi_watc
 
 # Credit
 EasyFace - https://github.com/m0tral/EasyFace
+
 Redmi Smart Band Pro - https://amzn.to/3XYL35H
+
 Xiaomi / Redmi Smart Watch - https://amzn.to/4diDXgM
