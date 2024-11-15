@@ -30,10 +30,10 @@ Let's make your Smart Band even smarter! :partying_face:
 > Install any watchface you want.
 
 # Custom
-Order your paid custom watchfaces - [@xawwnee](https://t.me/xawwnee)
+> Order your paid custom watchfaces - [@xawwnee](https://t.me/xawwnee)
 
 # Extra
-Get more watchfaces for other Xiaomi/Redmi wearables on [@mi_watch_int](https://t.me/mi_watch_int)
+> Get more watchfaces for other Xiaomi/Redmi wearables on [@mi_watch_int](https://t.me/mi_watch_int)
 
 # Credit
 > EasFace - https://github.com/m0tral/EasyFace
@@ -41,3 +41,13 @@ Get more watchfaces for other Xiaomi/Redmi wearables on [@mi_watch_int](https://
 > Redmi Smart Band Pro - https://amzn.to/3XYL35H
 
 > Xiaomi / Redmi Smart Watch - https://amzn.to/4diDXgM
+
+#
+
+> [!WARNING]
+> This app is shared for informational purposes only. I am not the app developer and cannot guarantee its functionality or security. Use at your own discretion.
+
+> [!CAUTION]
+> Please be aware that installing third-party apps from other sources can pose potential risks to your device's security and privacy. Proceed with caution.
+
+:heartpulse: from :india:
