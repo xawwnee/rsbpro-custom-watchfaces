@@ -14,7 +14,7 @@ Let's make your Smart Band even smarter! :partying_face:
 # Watchface Gallery
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/wf-dark-xawwnee.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="images/wf-dark-xawwnee.png">
   <source media="(prefers-color-scheme: light)" srcset="images/wf-light-xawwnee.jpg">
   <img alt="Watchface Gallery - @xawwnee" src="images/wf-light-xawwnee.jpg">
 </picture>
