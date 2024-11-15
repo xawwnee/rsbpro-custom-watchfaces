@@ -1,5 +1,15 @@
 # Redmi Smart Band Pro Custom Watchfaces
-Custom watchfaces made for Redmi Smart Band Pro.
+Hey Redmi Smart Band Pro fans! :wave:
+
+Tired of the same old watchfaces? :frowning_face: 
+
+Looking for new watchfaces? :thinking:
+
+Here I've created some cool custom ones for you! :wink:
+
+Check them out and let me know if you want a custom one just for you. :innocent:
+
+Let's make your Smart Band even smarter! :partying_face:
 
 # Watchface Gallery
 
@@ -11,20 +21,23 @@ Custom watchfaces made for Redmi Smart Band Pro.
 
 # Get Started
 ### Install
-1. Send #latestapp to https://t.me/mi_watch_bot
-2. Install latest version of MiFitness mod application (apk, under Android only)
-3. Open online watchfaces list.
-3. Install any watchface you want.
+> Send `/latestapp` command to [@mi_watch_bot](https://t.me/mi_watch_bot)
 
-# Custom Watchface
-Order your custom watchfaces - https://t.me/xawwnee
+> Install latest version of MiFitness modded application (apk, under Android only)
+  
+> Open online watchfaces list.
+
+> Install any watchface you want.
+
+# Custom
+Order your paid custom watchfaces - [@xawwnee](https://t.me/xawwnee)
 
 # Extra
-Get more watchfaces for other Xiaomi/Redmi wearables here - https://t.me/mi_watch_int
+Get more watchfaces for other Xiaomi/Redmi wearables on [@mi_watch_int](https://t.me/mi_watch_int)
 
 # Credit
-EasyFace - https://github.com/m0tral/EasyFace
+> EasFace - https://github.com/m0tral/EasyFace
 
-Redmi Smart Band Pro - https://amzn.to/3XYL35H
+> Redmi Smart Band Pro - https://amzn.to/3XYL35H
 
-Xiaomi / Redmi Smart Watch - https://amzn.to/4diDXgM
+> Xiaomi / Redmi Smart Watch - https://amzn.to/4diDXgM
