@@ -9,7 +9,7 @@ Here I've created some cool custom ones for you! :wink:
 
 Check them out and let me know if you want a custom one just for you. :innocent:
 
-Let's make your Smart Band even smarter! :partying_face:
+*Let's make your Smart Band even smarter!* :partying_face:
 
 # Watchface Gallery
 
