@@ -45,9 +45,13 @@ Check them out and let me know if you want a custom one just for you. :innocent:
 #
 
 > [!WARNING]
-> This app is shared for informational purposes only. I am not the app developer and cannot guarantee its functionality or security. Use at your own discretion.
+> This app is shared for informational purposes only. I am not the app developer and cannot guarantee its functionality or security.
+> 
+> Use at your own discretion.
 
 > [!CAUTION]
-> Please be aware that installing third-party apps from other sources can pose potential risks to your device's security and privacy. Proceed with caution.
+> Please be aware that installing third-party apps from other sources can pose potential risks to your device's security and privacy.
+> 
+> Proceed with caution.
 
 :heartpulse: from :india:
