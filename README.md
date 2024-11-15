@@ -5,8 +5,8 @@ Custom watchfaces made for Redmi Smart Band Pro.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/wf-gallery-dark-xawwnee.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="images/wf-gallery-xawwnee.jpg">
-  <img alt="Watchface Gallery - @xawwnee" src="images/wf-gallery-xawwnee.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="images/wf-gallery-light-xawwnee.jpg">
+  <img alt="Watchface Gallery - @xawwnee" src="images/wf-gallery-light-xawwnee.jpg">
 </picture>
 
 # Get Started
