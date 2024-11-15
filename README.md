@@ -16,8 +16,8 @@ Custom watchfaces made for Redmi Smart Band Pro.
 3. Open online watchfaces list.
 3. Install any watchface you want.
 
-# Custom Order
-Order your custom watchface - https://t.me/xawwnee
+# Custom Watchface
+Order your custom watchfaces - https://t.me/xawwnee
 
 # Extra
 Get more watchfaces for other Xiaomi/Redmi wearables here - https://t.me/mi_watch_int
