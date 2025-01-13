@@ -29,8 +29,8 @@ Check them out and let me know if you want a custom one just for you. :innocent:
 
 > Install any watchface you want.
 
-# Custom
-> Order your paid custom watchfaces - [@xawwnee](https://t.me/xawwnee)
+# Support
+> Buy [@xawwnee](https://t.me/xawwnee) a coffee on [ko-fi.com/xawwnee](https://ko-fi.com/xawwnee)
 
 # Extra
 > Get more watchfaces for other Xiaomi/Redmi wearables on [@mi_watch_int](https://t.me/mi_watch_int)
