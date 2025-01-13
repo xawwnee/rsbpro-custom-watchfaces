@@ -23,7 +23,7 @@ Check them out and let me know if you want a custom one just for you. :innocent:
 ### Install
 > Send `/latestapp` command to [@mi_watch_bot](https://t.me/mi_watch_bot)
 
-> Install latest version of MiFitness modded application (apk, under Android only)
+> Install latest version of MiFitness [@m0tral](https://t.me/m0tral) Edition app (apk, under Android only)
   
 > Open online watchfaces list.
 
@@ -36,7 +36,7 @@ Check them out and let me know if you want a custom one just for you. :innocent:
 > Get more watchfaces for other Xiaomi/Redmi wearables on [@mi_watch_int](https://t.me/mi_watch_int)
 
 # Credit
-> EasFace - https://github.com/m0tral/EasyFace
+> EasyFace - https://github.com/m0tral/EasyFace
 
 > Redmi Smart Band Pro - https://amzn.to/3XYL35H
 
