@@ -23,9 +23,9 @@ Check them out and let me know if you want a custom one just for you. :innocent:
 ### Install
 > Send `/latestapp` command to [@mi_watch_bot](https://t.me/mi_watch_bot)
 
-> Install latest version of MiFitness [@m0tral](https://t.me/m0tral) Edition app (apk, under Android only)
+> Install latest version of MiFitness [@m0tral](https://t.me/m0tral) Edition app (apk, under Android only) from above.
   
-> Open online watchfaces list.
+> Add your band and open online watchfaces list.
 
 > Install any watchface you want.
 
