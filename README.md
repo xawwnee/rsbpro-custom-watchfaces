@@ -21,19 +21,19 @@ Check them out and let me know if you want a custom one just for you. :innocent:
 
 # Get Started
 ### Install
-> Send `/latestapp` command to [@mi_watch_bot](https://t.me/mi_watch_bot)
+> Send `/latestapp` command to [@mi_watch_bot](https://tx.me/mi_watch_bot)
 
-> Install latest version of MiFitness [@m0tral](https://t.me/m0tral) Edition app (apk, under Android only) from above.
+> Install latest version of MiFitness [@m0tral](https://tx.me/m0tral) Edition app (apk, under Android only) from above.
   
 > Add your band and open online watchfaces list.
 
 > Install any watchface you want.
 
 # Support
-> Buy [@xawwnee](https://t.me/xawwnee) a coffee on [ko-fi.com/xawwnee](https://ko-fi.com/xawwnee)
+> Buy [@xawwnee](https://tx.me/xawwnee) a coffee on [ko-fi.com/xawwnee](https://ko-fi.com/xawwnee)
 
 # Extra
-> Get more watchfaces for other Xiaomi/Redmi wearables on [@mi_watch_int](https://t.me/mi_watch_int)
+> Get more watchfaces for other Xiaomi/Redmi wearables on [@mi_watch_int](https://tx.me/mi_watch_int)
 
 # Credit
 > EasyFace - https://github.com/m0tral/EasyFace
